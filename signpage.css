@@ -1,0 +1,25 @@
+.container1{
+    font-display: bold;
+    font-size: 30px;
+    text-align: center;
+   
+}
+.container2{
+    /* display: flex;
+    flex-wrap: wrap; */
+    text-align: center;
+    /* border: 2px solid black; */
+    
+}
+.a{
+    padding-top: 30px;
+    /* border: 2px solid black; */
+}
+body{
+    padding: 5%;
+
+}
+.container{
+    border: 2px solid black;
+    padding : 2% 0%;
+}
